@@ -27,5 +27,9 @@ Langkah praktikum
 
 ![pictures](pictures/5.PNG)
 
+5. Membuat elemen lainnya dan content artikel 
+
+![pictures](pictures/3.PNG)
+
 
 
