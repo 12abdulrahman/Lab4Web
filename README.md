@@ -23,5 +23,9 @@ Langkah praktikum
 
 ![pictures](pictures/4.PNG)
 
+4. membuat hero panel
+
+![pictures](pictures/5.PNG)
+
 
 
