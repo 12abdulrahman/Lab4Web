@@ -21,7 +21,7 @@ Langkah praktikum
 
 3. membuat navigasi
 
-![pictures](pictures/4)
+![pictures](pictures/4.PNG)
 
 
 
