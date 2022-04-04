@@ -15,4 +15,9 @@ Langkah praktikum
 ![pictures](pictures/1.PNG)
 
 
+2. membuat clearfix element
+
+![pictures](pictures/2.PNG)
+
+
 
